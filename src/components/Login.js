@@ -45,8 +45,6 @@ const Login = () => {
             // An error occurred
             // ...
           });
-          console.log(user, "user bro");
-          // ...
         })
         .catch((error) => {
           const errorCode = error.code;
@@ -57,10 +55,6 @@ const Login = () => {
       signInWithEmailAndPassword(auth, email.current.value, password.current.value)
         .then((userCredential) => {
           // Signed in
-          const user = userCredential.user;
-          console.log(user, " from signIN");
-          navigate("/browse");
-          // ...
         })
         .catch((error) => {
           const errorCode = error.code;

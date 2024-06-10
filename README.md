@@ -15,6 +15,20 @@
 - Creating redux store with userSlice
 - Implementing signOut
 - Updating the profile using firebase update API
+- BugFix: Sign up user with displayname(already covered with above point) and profile picture(no done yet).
+- BugFix: user should be able to directly go to browse page and post login should be able to access login page.
+- Unsubscribed to onAuthStateChanged call
+- removed hard coded NetFlix main logo url and replaced with constants.
+- Register in TMDB site for TMDB APIs and create an app in site and create a access token.
+- Get data from TMDB using nowPlayingMovies(current movies that are running in theatres.)
+- Custom hook for nowPlayingMovies(useNowPlayingMovies)
+- created movieSlice
+- code for updating store with movies data i.e., in movieSlice
+- created mainContainer that contains backgroundVideo and respective video title. And secondaryContainer(yet to be developed) that contains list of movies.
+- Fetching data for trailer or backgroundVideo in browsePage.
+- Updatin store with trailer video data.
+- Embedded youtube Video and made it autoplay and mute
+
 
 
 # Features
