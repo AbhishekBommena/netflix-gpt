@@ -28,6 +28,12 @@
 - Fetching data for trailer or backgroundVideo in browsePage.
 - Updatin store with trailer video data.
 - Embedded youtube Video and made it autoplay and mute
+- Built Secondary Component
+- Built ListOfMovies comp
+- Built MovieCard
+- Added TMDB Image CDN URL
+- Modified styling in browse page
+- Created usePopularMovies Hook
 
 
 

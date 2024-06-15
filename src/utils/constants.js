@@ -9,3 +9,5 @@ export const API_OPTIONS = {
       Authorization: TMDB_BEARER_TOKEN_API_OPTIONS
     }
   };
+
+export const MOVIE_IMG_PATH = "https://image.tmdb.org/t/p/original";
