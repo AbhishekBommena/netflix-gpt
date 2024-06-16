@@ -34,6 +34,9 @@
 - Added TMDB Image CDN URL
 - Modified styling in browse page
 - Created usePopularMovies Hook
+- GPT Search Page
+- GPT Search Bar
+- Multi lang Feature For GPT Search page.
 
 
 
