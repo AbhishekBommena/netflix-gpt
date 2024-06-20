@@ -37,6 +37,14 @@
 - GPT Search Page
 - GPT Search Bar
 - Multi lang Feature For GPT Search page.
+- Added Open AI/ Gemini AI API key
+- Used GPT Search API 
+- Fetched movies info from TMDB Which are suggested by GPT 
+- Created gptSlice
+- Reused ListOfMovies component in gptSearch
+- Memoization implemented
+- Added .env file
+
 
 
 
